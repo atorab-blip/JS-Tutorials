@@ -68,9 +68,9 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 **let:**
 
-	variable values can be changed after assigning any value
+	variable values can be changed, after assigning any value
 
-
+	
 
 var:
 
