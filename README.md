@@ -1,14 +1,8 @@
 # Java-Script learning from Chai aur Code YouTube Channel with notes
 
-console.log("Hello World!");
 
 
-
-let vs. var vs. const
-
-
-
-Primitives Data types - builtin - Fundamental data types 
+Primitives Data types - builtin - Fundamental data types
 
 N - N - S - S - B - B - U
 
@@ -49,7 +43,7 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 * Make changes of your own choices in the files you made up in the VS code
 * Go to the Source control placed at the left bar
 * Click on the + sign of the files you have changed
-* Write "container config done" and click commit 
+* Write "container config done" and click commit
 * On the Changes headline, click on the more options
 * Simply click on Push
 * Now Reload the GitHub's main page and see the changes you made in the files
@@ -58,7 +52,33 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 
 
+##### Tutorial 04:
 
 
 
+###### let vs. var vs. const
+
+
+
+**const:**
+
+&nbsp;	variable values can't be changed	
+
+
+
+**let:**
+
+	variable values can be changed after assigning any value
+
+
+
+var:
+
+&nbsp;	same as let but used now a days because of some errors due to scope
+
+
+
+**Scope:**
+
+&nbsp;	Anything which is *written inside the curly brackets {}* such as in loops or if/else statements are called as scopes
 
