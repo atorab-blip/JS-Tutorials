@@ -66,7 +66,7 @@
 
 ##### **Scope:**
 
-	Anything which is *written inside the curly brackets {}* such as in loops or if/else statements are called as scopes
+	Anything which is **written inside the curly brackets {}** such as in loops or if/else statements are called as scopes
 
 &nbsp;	Also, if you declare the variable using let, const, or var, and forgets to assign the value, after that if you print that it will show you the **undefined**
 
