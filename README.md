@@ -50,25 +50,28 @@
 
 
 
-###### **const:** 
+###### **const:**
 
-	variable values can't be changed	
+variable values can't be changed	
 
-###### **let:** 
 
-	variable values can be changed, after assigning any value
+###### **let:**
 
-###### **var:** 
+variable values can be changed, after assigning any value
 
-&nbsp;	same as **let** but used now a days because of some issues in **block** and **functional** **scope**
+
+###### **var:**
+
+ 	same as **let** but used now a days because of some issues in **block** and **functional** **scope**
 
 
 
 ##### **Scope:**
 
-	Anything which is **written inside the curly brackets {}** such as in loops or if/else statements are called as scopes
+Anything which is \*\*written inside the curly brackets {}\*\* such as in loops or if/else statements are called as scopes
 
-&nbsp;	Also, if you declare the variable using let, const, or var, and forgets to assign the value, after that if you print that it will show you the **undefined**
+
+ 	Also, if you declare the variable using let, const, or var, and forgets to assign the value, after that if you print that it will show you the **undefined**
 
 
 
@@ -78,11 +81,11 @@
 
 
 
-#### Datatypes and ECMA Standard 
+#### Datatypes and ECMA Standard
 
 
 
-##### **Primitives Data types**: 
+##### **Primitives Data types**:
 
 Built-in - **Fundamental data types**
 
@@ -92,9 +95,9 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 * **null:** standalone value
 * **number:** range in between 2 to power 53
-* **symbol:** unique 
+* **symbol:** unique
 * **string:** ""
-* **boolean:** true/false 
+* **boolean:** true/false
 * **bigint:** higher value number that **exceeds** the range of **number**
 * **undefined:**
 
@@ -102,7 +105,7 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 ##### **Non-Primitive Data types:**
 
-Array - Object - Functions - Regular Expression - Date 
+Array - Object - Functions - Regular Expression - Date
 
 
 
@@ -125,8 +128,3 @@ Whenever you want to convert the data type of any variable, then you have to def
 * string → String(preStrVar)
 * symbol → Symbol(preSymVar)
 * undefined → Undefined(preUndVar)
-
-
-
-
-
