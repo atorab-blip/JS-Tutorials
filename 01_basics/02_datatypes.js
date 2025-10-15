@@ -12,7 +12,7 @@ let sym = Symbol("id"); // Symbol
 
 let u; // Undefined
 
-console.log("\tPermittive Data Types:");
+console.log("\tPermitive Data Types:");
 
 console.log("Number:", num, "| Type:", typeof num);
 console.log("Null:", n, "| Type:", typeof n); // typeof null is 'object'
@@ -33,7 +33,7 @@ let obj = { name: "Alice", age: 30 };
 let func = function() { return "Hello from function"; }; // Function
 let date = new Date(); // Date
 
-console.log("\tNon-Permittive Data Types:");
+console.log("\tNon-Permitive Data Types:");
 
 console.log("Array:", arr, "| Type:", typeof arr);
 console.log("Object:", obj, "| Type:", typeof obj);
