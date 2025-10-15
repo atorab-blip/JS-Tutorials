@@ -4,11 +4,11 @@
 
 
 
-##### **Tutorial 03:**
+### **Tutorial 03:**
 
 
 
-###### **GitHub:**
+#### **GitHub:**
 
 * Create new repository
 * Code -> Codespace -> Create in Codespace
@@ -16,7 +16,7 @@
 
 
 
-###### **For installation of JS in Codespace:**
+#### **For installation of JS in Codespace:**
 
 * Open View and the Command Palette (Ctrl + Shift + P)
 * Write "container" -> choose "Codespace: Add Dev Container Configuration Files"
@@ -28,7 +28,7 @@
 
 
 
-###### **Saving in GitHub:**
+#### **Saving in GitHub:**
 
 * Make changes of your own choices in the files you made up in the VS code
 * Go to the Source control placed at the left bar
@@ -42,23 +42,31 @@
 
 
 
-##### Tutorial 04:
+### Tutorial 04:
 
 
 
-###### let vs. var vs. const
+##### let vs. var vs. const
 
 
 
-**const:** variable values can't be changed	
+###### **const:** 
 
-**let:** variable values can be changed, after assigning any value
+	variable values can't be changed	
 
-var: same as **let** but used now a days because of some issues in **block** and **functional** **scope**
+###### **let:** 
+
+	variable values can be changed, after assigning any value
+
+###### **var:** 
+
+&nbsp;	same as **let** but used now a days because of some issues in **block** and **functional** **scope**
 
 
 
-**Scope:** Anything which is *written inside the curly brackets {}* such as in loops or if/else statements are called as scopes
+##### **Scope:**
+
+	Anything which is *written inside the curly brackets {}* such as in loops or if/else statements are called as scopes
 
 &nbsp;	Also, if you declare the variable using let, const, or var, and forgets to assign the value, after that if you print that it will show you the **undefined**
 
@@ -66,15 +74,15 @@ var: same as **let** but used now a days because of some issues in **block** and
 
 
 
-##### Tutorial 05:
+### Tutorial 05:
 
 
 
-###### Datatypes and ECMA Standard 
+#### Datatypes and ECMA Standard 
 
 
 
-**Primitives Data types**: 
+##### **Primitives Data types**: 
 
 Built-in - **Fundamental data types**
 
@@ -92,7 +100,7 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 
 
-**Non-Permitive Data types:**
+##### **Non-Primitive Data types:**
 
 Array - Object - Functions - Regular Expression - Date 
 
@@ -100,17 +108,17 @@ Array - Object - Functions - Regular Expression - Date
 
 
 
-##### Tutorial 06:
+### Tutorial 06:
 
 
 
-###### Data type conversion
+#### Data type conversion
 
 
 
 Whenever you want to convert the data type of any variable, then you have to define the variable name and then write the type in which you need to change, and that's all.
 
-* number → Number(previousVariableName)
+* number → Number(preVarName)
 * null → Null(preNullVar)
 * boolean → Boolean(preBoolVar)
 * bigint → Bigint(preBigintVar)
