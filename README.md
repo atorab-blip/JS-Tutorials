@@ -1,3 +1,5 @@
+# Java-Script learning from Chai aur Code YouTube Channel with notes
+
 console.log("Hello World!");
 
 
@@ -18,11 +20,11 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 
 
-Tutorial 03:
+##### **Tutorial 03:**
 
 
 
-GitHub:
+###### **GitHub:**
 
 * Create new repository
 * Code -> Codespace -> Create in Codespace
@@ -30,7 +32,7 @@ GitHub:
 
 
 
-For installation of JS in Codespace:
+###### **For installation of JS in Codespace:**
 
 * Open View and the Command Palette (Ctrl + Shift + P)
 * Write "container" -> choose "Codespace: Add Dev Container Configuration Files"
@@ -42,7 +44,7 @@ For installation of JS in Codespace:
 
 
 
-Saving in GitHub:
+###### **Saving in GitHub:**
 
 * Make changes of your own choices in the files you made up in the VS code
 * Go to the Source control placed at the left bar
@@ -51,6 +53,10 @@ Saving in GitHub:
 * On the Changes headline, click on the more options
 * Simply click on Push
 * Now Reload the GitHub's main page and see the changes you made in the files
+
+
+
+
 
 
 
