@@ -80,11 +80,39 @@ Also, if you declare the variable using let, const, or var, and forgets to assig
 
 
 
-Primitives Data types - builtin - Fundamental data types
+**Primitives Data types**: 
+
+Built-in - **Fundamental data types**
 
 N - N - S - S - B - B - U
 
 Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 
+
+**null:** standalone value
+
+**number:** range in between 2 to power 53
+
+**symbol:** unique 
+
+**string:** ""
+
+**boolean:** true/false 
+
+**bigint:** higher value number that **exceeds** the range of **number**
+
+**undefined:**
+
+
+
+**Non-Permitive Data types:**
+
+Array - Object - Functions - Regular Expression - Date 
+
+
+
+
+
+  
 
