@@ -60,25 +60,17 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 
 
-**const:**
-
-variable values can't be changed	
+**const:** variable values can't be changed	
 
 
 
-**let:**
-
-variable values can be changed, after assigning any value
+**let:** variable values can be changed, after assigning any value
 
 	
 
-var:
-
-same as let but used now a days because of some errors due to scope
+var: same as let but used now a days because of some errors due to scope
 
 
 
-**Scope:**
-
-&nbsp;	Anything which is *written inside the curly brackets {}* such as in loops or if/else statements are called as scopes
+**Scope:** Anything which is *written inside the curly brackets {}* such as in loops or if/else statements are called as scopes
 
