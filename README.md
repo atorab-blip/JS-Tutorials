@@ -1,4 +1,4 @@
-# Java-Script learning from Chai aur Code YouTube Channel with notes
+# Java-Script with notes
 
 
 
@@ -52,11 +52,7 @@
 
 **const:** variable values can't be changed	
 
-
-
 **let:** variable values can be changed, after assigning any value
-
-	
 
 var: same as **let** but used now a days because of some issues in **block** and **functional** **scope**
 
@@ -64,9 +60,7 @@ var: same as **let** but used now a days because of some issues in **block** and
 
 **Scope:** Anything which is *written inside the curly brackets {}* such as in loops or if/else statements are called as scopes
 
-
-
-Also, if you declare the variable using let, const, or var, and forgets to assign the value, after that if you print that it will show you the **undefined**
+&nbsp;	Also, if you declare the variable using let, const, or var, and forgets to assign the value, after that if you print that it will show you the **undefined**
 
 
 
@@ -88,21 +82,13 @@ N - N - S - S - B - B - U
 
 Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
-
-
-**null:** standalone value
-
-**number:** range in between 2 to power 53
-
-**symbol:** unique 
-
-**string:** ""
-
-**boolean:** true/false 
-
-**bigint:** higher value number that **exceeds** the range of **number**
-
-**undefined:**
+* **null:** standalone value
+* **number:** range in between 2 to power 53
+* **symbol:** unique 
+* **string:** ""
+* **boolean:** true/false 
+* **bigint:** higher value number that **exceeds** the range of **number**
+* **undefined:**
 
 
 
@@ -114,5 +100,25 @@ Array - Object - Functions - Regular Expression - Date
 
 
 
-  
+##### Tutorial 06:
+
+
+
+###### Data type conversion
+
+
+
+Whenever you want to convert the data type of any variable, then you have to define the variable name and then write the type in which you need to change, and that's all.
+
+* number → Number(previousVariableName)
+* null → Null(preNullVar)
+* boolean → Boolean(preBoolVar)
+* bigint → Bigint(preBigintVar)
+* string → String(preStrVar)
+* symbol → Symbol(preSymVar)
+* undefined → Undefined(preUndVar)
+
+
+
+
 
