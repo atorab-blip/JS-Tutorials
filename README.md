@@ -62,19 +62,19 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 **const:**
 
-&nbsp;	variable values can't be changed	
+variable values can't be changed	
 
 
 
 **let:**
 
-	variable values can be changed, after assigning any value
+variable values can be changed, after assigning any value
 
 	
 
 var:
 
-&nbsp;	same as let but used now a days because of some errors due to scope
+same as let but used now a days because of some errors due to scope
 
 
 
