@@ -12,8 +12,6 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 
 
-
-
 ##### **Tutorial 03:**
 
 
@@ -68,9 +66,13 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 	
 
-var: same as let but used now a days because of some errors due to scope
+var: same as **let** but used now a days because of some issues in **block** and **functional** **scope**
 
 
 
 **Scope:** Anything which is *written inside the curly brackets {}* such as in loops or if/else statements are called as scopes
+
+
+
+
 

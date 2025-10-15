@@ -26,5 +26,7 @@ console.warn("This is a warning message!");
 console.debug("This is a debug message!");
 console.assert(4 === 3, "4 is not equal to 3"); //assertion failed message will be printed
 
-// console.error("This is an error message!");
-// console.clear(); //clears the console
+/*
+console.error("This is an error message!");
+console.clear(); //clears the console
+*/
