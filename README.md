@@ -39,7 +39,7 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 * Click on "Create new Container"
 * Search for "Node.js and JavaScript" and click on it.
 * Choose the default value upon version
-* click on OK on next window without choosing any option
+* Click on OK on next window without choosing any option
 * Click on the Rebuild.
 
 
