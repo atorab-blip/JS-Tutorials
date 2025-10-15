@@ -6,11 +6,17 @@ console.log("Number changed to string:", strNum, "| Type:", typeof strNum);
 
 console.log("--------------------------------------------------");
 
-let nullVar = 0;
-console.log("Null variable:", nullVar, "| Type:", typeof nullVar);
+let nullVar0 = 0;
+console.log("Null variable:", nullVar0, "| Type:", typeof nullVar0);
 
-let boolNull = Boolean(nullVar);
-console.log("Null changed to Booean:", boolNull, "| Type:", typeof boolNull);
+let boolNull0 = Boolean(nullVar0);
+console.log("Null changed to Booean:", boolNull0, "| Type:", typeof boolNull0);
+
+let nullVar1 = 1;
+console.log("Null variable:", nullVar1, "| Type:", typeof nullVar1);
+
+let boolNull1 = Boolean(nullVar1);
+console.log("Null changed to Booean:", boolNull1, "| Type:", typeof boolNull1);
 
 console.log("--------------------------------------------------");
 
