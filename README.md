@@ -2,14 +2,6 @@
 
 
 
-Primitives Data types - builtin - Fundamental data types
-
-N - N - S - S - B - B - U
-
-Null - Number - Symbol - String - Boolean - Bigint - Undefined
-
-
-
 
 
 ##### **Tutorial 03:**
@@ -73,6 +65,26 @@ var: same as **let** but used now a days because of some issues in **block** and
 **Scope:** Anything which is *written inside the curly brackets {}* such as in loops or if/else statements are called as scopes
 
 
+
+Also, if you declare the variable using let, const, or var, and forgets to assign the value, after that if you print that it will show you the **undefined**
+
+
+
+
+
+##### Tutorial 05:
+
+
+
+###### Datatypes and ECMA Standard 
+
+
+
+Primitives Data types - builtin - Fundamental data types
+
+N - N - S - S - B - B - U
+
+Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 
 
