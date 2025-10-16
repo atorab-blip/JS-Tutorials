@@ -102,6 +102,7 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 Array - Object - Functions - Regular Expression - Date
 
 
+**Note:** Non-Primitive Data types can also be known as Reference Data Types
 
 
 
