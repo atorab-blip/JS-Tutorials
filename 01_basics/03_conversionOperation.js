@@ -25,3 +25,9 @@ console.log("String variable:", strVar, "| Type:", typeof strVar);
 
 let numStr = Number(strVar);
 console.log("String changed to Number:", numStr, "| Type:", typeof numStr);
+
+console .log("--------------------------------------------------");
+let value = 3;
+let negValue = -value;
+console.log("Value:", value, "| Type:", typeof value);
+console.log("Negative Value:", negValue, "| Type:", typeof negValue);
