@@ -2,6 +2,12 @@
 
 
 
+Arrays, Objects, Browser web-events, functions
+
+JavaScript (JS) is a dynamically typed language.
+
+Typescript is a statically typed language
+
 
 
 ### **Tutorial 03:**
@@ -154,7 +160,7 @@ Operators
 
 
 
-###### Comparison Operator:
+###### Comparison Operatori
 
  	used for comparing variables with values like for <,>, <=, >=, and != etc.
 
@@ -202,7 +208,7 @@ Return type of variables in JavaScript
 
        Symbol  →  symbol
 
-       BigInt  →  bigint
+       Bigint  →  bigint
 
 
 
@@ -226,9 +232,5 @@ Return type of variables in JavaScript
 
 
 
-Arrays, Objects, Browser web-events, functions
 
-JavaScript (JS) is a dynamically typed language.
-
-Typescript is a statically typed language
 
