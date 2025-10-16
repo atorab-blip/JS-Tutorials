@@ -15,4 +15,4 @@ Return type of variables in JavaScript
        Function  =>  function
        Object  =>  object
 
-       */
+*/
