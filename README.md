@@ -120,3 +120,58 @@ Whenever you want to convert the data type of any variable, then you have to def
 * string → String(preStrVar)
 * symbol → Symbol(preSymVar)
 * undefined → Undefined(preUndVar)
+
+
+
+
+
+Tutorial 07:
+Operators
+---
+
+
+
+###### Arithmetic Operator:
+
+* Addition 
+* Subtraction
+* Multiplication
+* Division
+* Modulus
+* Increment (Post and Pre)
+* Decrement
+
+
+
+###### Assignment Operator:
+
+&nbsp;	used for assigning values to variables with or without increment and decrement
+
+
+
+###### Comparison Operator:
+
+&nbsp;	used for comparing variables with values like for <,>, <=, >=, and != etc.
+
+
+
+###### Logical Operators:
+
+&nbsp;	usage of AND, OR, NOT, NOR etc.
+
+
+
+###### Operator Precedence
+
+
+
+
+
+### Tutorial 08:
+
+#### Data Type Comparison
+
+
+
+
+
