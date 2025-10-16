@@ -160,7 +160,7 @@ Operators
 
 
 
-###### Comparison Operatori
+###### Comparison Operator: 
 
  	used for comparing variables with values like for <,>, <=, >=, and != etc.
 
