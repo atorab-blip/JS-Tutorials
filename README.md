@@ -66,7 +66,7 @@ variable values can be changed, after assigning any value
 
 ###### **var:**
 
- 	same as **let** but used now a days because of some issues in **block** and **functional** **scope**
+same as **let** but used now a days because of some issues in **block** and **functional** **scope**
 
 
 
@@ -96,13 +96,13 @@ N - N - S - S - B - B - U
 
 Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
-* **null:** standalone value
-* **number:** range in between 2 to power 53
-* **symbol:** unique
-* **string:** ""
-* **boolean:** true/false
-* **bigint:** higher value number that **exceeds** the range of **number**
-* **undefined:**
+* **null:** 	standalone value
+* **number:** 	range in between 2 to power 53
+* **symbol:** 	unique
+* **string:** 	""
+* **boolean:** 	true/false
+* **bigint:** 	higher value number that **exceeds** the range of **number**
+* **undefined:**	
 
 
 
@@ -222,11 +222,26 @@ Return type of variables in JavaScript
 
 
 
+##### Memory
+
+###### Stack \& Heap
 
 
 
+**Stack:**	Primitive - You will get a copy of the variable when inside the Stack Memory
 
 
+
+**Heap:**	Non-Primitive - You will get a reference of the original variable when inside the Heap Memory. So, if you change anything in the Heap memory's variable, you will get a change in the original variable.
+
+
+
+* **Primitive Datatypes** are stored in **stack memory**
+* **Non-primitive Datatypes** are stored in **heap memory**
+* **Stack memory** is **faster** than **heap memory**
+* Primitive Datatypes are faster than Non-primitive Datatypes
+* **Primitive** **Datatypes** are **immutable** (cannot be changed)
+* **Non-primitive** **Datatypes** are **mutable** (can be changed)
 
 
 
