@@ -6,8 +6,6 @@
 
 ### **Tutorial 03:**
 
-
-
 #### **GitHub:**
 
 * Create new repository
@@ -44,8 +42,6 @@
 
 ### Tutorial 04:
 
-
-
 ##### let vs. var vs. const
 
 
@@ -79,8 +75,6 @@ Anything which is \*\*written inside the curly brackets {}\*\* such as in loops 
 
 ### Tutorial 05:
 
-
-
 #### Datatypes and ECMA Standard
 
 
@@ -112,8 +106,6 @@ Array - Object - Functions - Regular Expression - Date
 
 
 ### Tutorial 06:
-
-
 
 #### Data type conversion
 
