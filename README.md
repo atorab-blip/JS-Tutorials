@@ -9,7 +9,7 @@
 #### **GitHub:**
 
 * Create new repository
-* Code -> Codespace -> Create in Codespace
+* Code → Codespace → Create in Codespace
 * Goes to the new tab where VS Code will be opened
 
 
@@ -17,7 +17,7 @@
 #### **For installation of JS in Codespace:**
 
 * Open View and the Command Palette (Ctrl + Shift + P)
-* Write "container" -> choose "Codespace: Add Dev Container Configuration Files"
+* Write "container" → choose "Codespace: Add Dev Container Configuration Files"
 * Click on "Create new Container"
 * Search for "Node.js and JavaScript" and click on it.
 * Choose the default value upon version
@@ -48,12 +48,14 @@
 
 ###### **const:**
 
-variable values can't be changed	
+variable values can't be changed
+
 
 
 ###### **let:**
 
 variable values can be changed, after assigning any value
+
 
 
 ###### **var:**
@@ -65,6 +67,7 @@ variable values can be changed, after assigning any value
 ##### **Scope:**
 
 Anything which is **written inside the curly brackets {}** such as in loops or if/else statements are called as scopes
+
 
 
  	Also, if you declare the variable using let, const, or var, and forgets to assign the value, after that if you print that it will show you the **undefined**
@@ -102,6 +105,7 @@ Null - Number - Symbol - String - Boolean - Bigint - Undefined
 Array - Object - Functions - Regular Expression - Date
 
 
+
 **Note:** Non-Primitive Data types can also be known as Reference Data Types
 
 
@@ -134,7 +138,7 @@ Operators
 
 ###### Arithmetic Operator:
 
-* Addition 
+* Addition
 * Subtraction
 * Multiplication
 * Division
@@ -146,19 +150,19 @@ Operators
 
 ###### Assignment Operator:
 
-&nbsp;	used for assigning values to variables with or without increment and decrement
+ 	used for assigning values to variables with or without increment and decrement
 
 
 
 ###### Comparison Operator:
 
-&nbsp;	used for comparing variables with values like for <,>, <=, >=, and != etc.
+ 	used for comparing variables with values like for <,>, <=, >=, and != etc.
 
 
 
 ###### Logical Operators:
 
-&nbsp;	usage of AND, OR, NOT, NOR etc.
+ 	usage of AND, OR, NOT, NOR etc.
 
 
 
@@ -172,7 +176,7 @@ Operators
 
 #### Data Type Comparison
 
-&nbsp;	The data type of two variables—whether they contain numbers, strings, or any other type—can be compared using the triple equals sign (===). This operator doesn’t just check the values of the variables; it also checks whether their data types are the same. First, it compares the data types of both variables, and if they match, it then compares their actual values.
+ 	The data type of two variables—whether they contain numbers, strings, or any other type—can be compared using the triple equals sign (===). This operator doesn’t just check the values of the variables; it also checks whether their data types are the same. First, it compares the data types of both variables, and if they match, it then compares their actual values.
 
 
 
@@ -186,31 +190,29 @@ Return type of variables in JavaScript
 
 ##### 1\) Primitive Datatypes
 
-&nbsp;      Number → number
+       Number → number
 
-&nbsp;      String  → string
+       String  → string
 
-&nbsp;      Boolean  → boolean
+       Boolean  → boolean
 
-&nbsp;      null  → object
+       null  → object
 
-&nbsp;      undefined  →  undefined
+       undefined  →  undefined
 
-&nbsp;      Symbol  →  symbol
+       Symbol  →  symbol
 
-&nbsp;      BigInt  →  bigint
+       BigInt  →  bigint
 
 
 
 ##### 2\) Non-primitive Datatypes
 
-&nbsp;      Arrays  →  object
+       Arrays  →  object
 
-&nbsp;      Function  →  function
+       Function  →  function
 
-&nbsp;      Object  →  object
-
-
+       Object  →  object
 
 
 
@@ -222,11 +224,11 @@ Return type of variables in JavaScript
 
 
 
-Arrays, Objects, Browser web-events, functions 
+
+
+Arrays, Objects, Browser web-events, functions
 
 JavaScript (JS) is a dynamically typed language.
 
 Typescript is a statically typed language
-
-
 
