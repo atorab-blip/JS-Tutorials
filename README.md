@@ -172,7 +172,33 @@ Operators
 
 #### Data Type Comparison
 
+&nbsp;	The data type of two variables—whether they contain numbers, strings, or any other type—can be compared using the triple equals sign (===). This operator doesn’t just check the values of the variables; it also checks whether their data types are the same. First, it compares the data types of both variables, and if they match, it then compares their actual values.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arrays, Objects, Browser web-events, functions 
+
+JavaScript (JS) is a dynamically typed language.
+
+Typescript is a statically typed language
 
 
 
