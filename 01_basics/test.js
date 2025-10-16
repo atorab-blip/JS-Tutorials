@@ -83,3 +83,15 @@ console.log("String to Boolean:", strtobool, "| Type of:", typeof strtobool);
 let booltostr = true; 
 console.log("Boolean to String:", booltostr, "| Type of:", typeof booltostr);
 
+
+
+const car = {
+    name: "BMW X5",
+    year: 2020,
+    color: "Graphite Gray",
+    Make_Model: 2021
+}
+
+console.log(car.name, car.year);
+
+
