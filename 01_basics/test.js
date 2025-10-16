@@ -93,5 +93,3 @@ const car = {
 }
 
 console.log(car.name, car.year);
-
-
