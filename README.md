@@ -178,9 +178,37 @@ Operators
 
 
 
+### Tutorial 09:
+
+#### Data Types Summary
+
+Return type of variables in JavaScript
+
+##### 1\) Primitive Datatypes
+
+&nbsp;      Number → number
+
+&nbsp;      String  → string
+
+&nbsp;      Boolean  → boolean
+
+&nbsp;      null  → object
+
+&nbsp;      undefined  →  undefined
+
+&nbsp;      Symbol  →  symbol
+
+&nbsp;      BigInt  →  bigint
 
 
 
+##### 2\) Non-primitive Datatypes
+
+&nbsp;      Arrays  →  object
+
+&nbsp;      Function  →  function
+
+&nbsp;      Object  →  object
 
 
 
