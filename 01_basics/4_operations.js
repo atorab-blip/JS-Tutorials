@@ -11,8 +11,8 @@ console.log("Modulus:", val1 % val2);
 console.log("Exponentiation (Power):", val1 ** val2);
 console.log("Increment:", ++val1);
 console.log("Decrement:", --val2);
-console.log("--------------------------------------------------");
 
+console.log("--------------------------------------------------");
 
 console.log("Assignment Operators in JS");
 let z = 5;
@@ -29,6 +29,7 @@ z %= 3; // x = x % 3
 console.log("After %= 3:", z);
 z **= 2; // x = x ** 2
 console.log("After **= 2:", z);
+
 console.log("--------------------------------------------------");
 
 console.log("Comparison Operators in JS");
@@ -42,6 +43,7 @@ console.log("a > b:", a > b); // false
 console.log("a < b:", a < b); // false
 console.log("a >= b:", a >= b); // true
 console.log("a <= b:", a <= b); // true
+
 console.log("--------------------------------------------------");
 
 console.log("Logical Operators in JS"); //AND, OR, NOT
