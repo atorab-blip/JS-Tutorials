@@ -1,4 +1,4 @@
-# Java-Script with notes
+# JavaScript with notes
 
 
 
@@ -6,7 +6,7 @@ Arrays, Objects, Browser web-events, functions
 
 JavaScript (JS) is a dynamically typed language.
 
-Typescript is a statically typed language
+TypeScript is a statically typed language
 
 
 
@@ -14,7 +14,7 @@ Typescript is a statically typed language
 
 #### **GitHub:**
 
-* Create new repository
+* Create a new repository
 * Code → Codespace → Create in Codespace
 * Goes to the new tab where VS Code will be opened
 
@@ -27,20 +27,20 @@ Typescript is a statically typed language
 * Click on "Create new Container"
 * Search for "Node.js and JavaScript" and click on it.
 * Choose the default value upon version
-* Click on OK on next window without choosing any option
+* Click on OK on the next window without choosing any option
 * Click on the Rebuild.
 
 
 
 #### **Saving in GitHub:**
 
-* Make changes of your own choices in the files you made up in the VS code
-* Go to the Source control placed at the left bar
+* Make changes to your own choices in the files you made up in VS Code
+* Go to the Source Control placed in the left bar
 * Click on the + sign of the files you have changed
 * Write "container config done" and click commit
-* On the Changes headline, click on the more options
+* On the Changes headline, click on the More Options
 * Simply click on Push
-* Now Reload the GitHub's main page and see the changes you made in the files
+* Now reload GitHub's main page and see the changes you made in the files
 
 
 
@@ -60,7 +60,7 @@ variable values can't be changed
 
 ###### **let:**
 
-variable values can be changed, after assigning any value
+variable values can be changed after assigning any value
 
 
 
@@ -72,11 +72,11 @@ same as **let** but used now a days because of some issues in **block** and **fu
 
 ##### **Scope:**
 
-Anything which is **written inside the curly brackets {}** such as in loops or if/else statements are called as scopes
+Anything that is **written inside the curly brackets {}**, such as in loops or if/else statements, is called a scope
 
 
 
- 	Also, if you declare the variable using let, const, or var, and forgets to assign the value, after that if you print that it will show you the **undefined**
+ 	Also, if you declare the variable using let, const, or var, and forget to assign the value, after that,i f you print that it will show you the **undefined**
 
 
 
@@ -97,7 +97,7 @@ N - N - S - S - B - B - U
 Null - Number - Symbol - String - Boolean - Bigint - Undefined
 
 * **null:** 	standalone value
-* **number:** 	range in between 2 to power 53
+* **number:** 	range in between 2 to the power of 53
 * **symbol:** 	unique
 * **string:** 	""
 * **boolean:** 	true/false
@@ -122,7 +122,7 @@ Array - Object - Functions - Regular Expression - Date
 
 
 
-Whenever you want to convert the data type of any variable, then you have to define the variable name and then write the type in which you need to change, and that's all.
+Whenever you want to convert the data type of any variable, you have to define the variable name and then write the type to which you need to change, and that's all.
 
 * number → Number(preVarName)
 * null → Null(preNullVar)
