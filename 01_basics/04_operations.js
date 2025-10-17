@@ -29,7 +29,7 @@ z %= 3; // x = x % 3
 console.log("After %= 3:", z);
 z **= 2; // x = x ** 2
 console.log("After **= 2:", z);
-
+ 
 console.log("--------------------------------------------------");
 
 console.log("Comparison Operators in JS");
