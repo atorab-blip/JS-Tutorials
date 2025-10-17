@@ -52,3 +52,8 @@ console.log("Does My Array 02 include 'Green'?:", myArray02.includes("Green"));
 myArray02.indexOf("Blue");    // getting index of an element
 console.log("Index of 'Blue' in My Array 02:", myArray02.indexOf("Blue"));
 
+myArray02.slice(1, 4);
+console.log("Sliced My Array 02 (1 to 4):", myArray02.slice(1, 4));
+
+myArray02.splice(1, 3);
+console.log("After splice (1,3), My Array 02:", myArray02);
