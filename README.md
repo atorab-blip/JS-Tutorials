@@ -247,19 +247,11 @@ Return type of variables in JavaScript
 
 
 
-
-
-
-
-
-
-
-
 ### Tutorial 14:
 
 #### Arrays
 
-#### 
+
 
 Arrays always be written in the \[].
 
