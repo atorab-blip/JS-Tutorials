@@ -45,4 +45,4 @@ console.log("After Updating arr1");
 console.log("arr1 :", arr1);
 console.log("arr2 :", arr2);
 // Here arr2 is affected because it is stored in Heap Memory
-// Both arr1 and arr2 are pointing to the same location in Heap Memory
+// Both arr1 and arr2 are pointing to the same location in Heap Memory 
